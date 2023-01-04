@@ -2,7 +2,7 @@
 
 [![Yuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Derrick-Yuan&show_icons=true&theme=radical&count_private=true)](https://github.com/Derrick-Yuan/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derrick-Yuan&layout=compact)](https://github.com/Derrick-Yuan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Derrick-Yuan&layout=compact&langs_count=8)](https://github.com/Derrick-Yuan/github-readme-stats)
 
 <!--
 **Derrick-Yuan/Derrick-Yuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
