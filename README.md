@@ -1,11 +1,11 @@
 ### Hi there，welcome to my Audio World！ 🌏🌌🌊
 ### I'm Derrick / 袁满 ！👋
-### I love everything I love！
-### “日日行不怕千万里，时时做不惧千万事。”
 
 [![Groove!'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Derrick-Yuan&show_icons=true&theme=radical)](https://github.com/Derrick-Yuan/github-readme-stats)
 
 ### Research & Hobbies： Sound, Music, AI, Game Development, Code, Design, etc. 🎸🎹🥁🎻🎺🎤🎧
+### I love everything I love！
+### “日日行不怕千万里，时时做不惧千万事。”
 
 <!--
 **Derrick-Yuan/Derrick-Yuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
