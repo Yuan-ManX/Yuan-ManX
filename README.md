@@ -1,6 +1,7 @@
 ### Hi there，welcome to my Audio World！ 🌏🌌🌊
 ### I'm Derrick / 袁满 ！👋
 
+
 [![Groove!'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Derrick-Yuan&show_icons=true&theme=radical)](https://github.com/Derrick-Yuan/github-readme-stats)
 
 ### Research & Hobbies： Sound, Music, AI, Game Development, Code, Design, etc. 🎸🎹🥁🎻🎺🎤🎧
