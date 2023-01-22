@@ -1,5 +1,5 @@
 ### Hi there，welcome to my Audio World！ 🌏🌌🌊
-### I'm Derrick / 袁满 ！👋
+### I'm Derrick / Yuan Man（袁满） ！👋
 
 [![Groove!'s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Derrick-Yuan&show_icons=true&theme=radical)](https://github.com/Derrick-Yuan/github-readme-stats)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Derrick-Yuan&layout=compact)](https://github.com/Derrick-Yuan/github-readme-stats)
