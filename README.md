@@ -6,14 +6,27 @@
 
 ### Research & Hobbies： Sound, Music, AI, Game Development, Code, Design, etc. 🎸🎹🥁🎻🎺🎤🎧
 
-### [SouPyX](https://github.com/Yuan-ManX/SouPyX) - Audio Toolkit 🎵
-### [ArtNex](https://github.com/Yuan-ManX/artnex) - Deep Learning Framework 🚀
-### [DataForm](https://github.com/Yuan-ManX/dataform) - Data Processing Toolkit 🔥
-### [NexEngine](https://github.com/Yuan-ManX/NexEngine) - Game Engine 🎮
-### [MultiClip](https://github.com/Yuan-ManX/multi-clip) - MultiModal Clip 🤖
+- [SouPyX](https://github.com/Yuan-ManX/SouPyX) - Audio Toolkit 🎵
+
+- [ArtNex](https://github.com/Yuan-ManX/artnex) - Deep Learning Framework 🚀
+
+- [DataForm](https://github.com/Yuan-ManX/dataform) - Data Processing Toolkit 🔥
+
+- [NexEngine](https://github.com/Yuan-ManX/NexEngine) - Game Engine 🎮
+
+- [MultiClip](https://github.com/Yuan-ManX/multi-clip) - MultiModal Clip 🤖
+
+
+
+### Interests:
+
+- AI Resources:  [AI Game Development Tools (AI-GDT) 🎮](https://github.com/Yuan-ManX/ai-game-development-tools), [AI Audio Datasets (AI-ADL) 🎵](https://github.com/Yuan-ManX/ai-audio-datasets), [Audio Development Tools (ADT) 🔥](https://github.com/Yuan-ManX/audio-development-tools), [Audio AI Timeline](https://github.com/archinetai/audio-ai-timeline), [AI Agent Roadmap](https://github.com/Yuan-ManX/ai-agent-roadmap)
+
+- AI Project: [01 Project](https://github.com/OpenInterpreter/01)
 
 ### I love everything I love！
 ### “日日行不怕千万里，时时做不惧千万事。”
+
 
 <!--
 **Yuan-ManX/Yuan-ManX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
