@@ -20,9 +20,9 @@
 
 ### Interests:
 
-- AI Resources:  [AI Game Development Tools (AI-GDT) 🎮](https://github.com/Yuan-ManX/ai-game-development-tools), [AI Audio Datasets (AI-ADL) 🎵](https://github.com/Yuan-ManX/ai-audio-datasets), [Audio Development Tools (ADT) 🔥](https://github.com/Yuan-ManX/audio-development-tools), [Audio AI Timeline](https://github.com/archinetai/audio-ai-timeline), [AI Agent Roadmap](https://github.com/Yuan-ManX/ai-agent-roadmap)
+- AI Resources :  [AI Game Development Tools (AI-GDT) 🎮](https://github.com/Yuan-ManX/ai-game-development-tools), [AI Audio Datasets (AI-ADL) 🎵](https://github.com/Yuan-ManX/ai-audio-datasets), [Audio Development Tools (ADT) 🔥](https://github.com/Yuan-ManX/audio-development-tools), [AI Agent Roadmap](https://github.com/Yuan-ManX/ai-agent-roadmap), [Audio AI Timeline](https://github.com/archinetai/audio-ai-timeline), [LLM App Stack](https://github.com/a16z-infra/llm-app-stack), [🤖 Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt), [🔱 Speech Trident](https://github.com/ga642381/speech-trident), [Game Engine 🎮](https://github.com/Yuan-ManX/game-engine), [Audio AI Agent](https://github.com/Yuan-ManX/audio-ai-agent)
 
-- AI Project: [01 Project](https://github.com/OpenInterpreter/01)
+- AI Project : [01 Project](https://github.com/OpenInterpreter/01)
 
 ### I love everything I love！
 ### “日日行不怕千万里，时时做不惧千万事。”
