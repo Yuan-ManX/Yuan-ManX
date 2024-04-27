@@ -10,6 +10,8 @@
 
 - [ArtNex](https://github.com/Yuan-ManX/artnex) - Deep Learning Framework 🚀
 
+- [SoundHub](https://github.com/Yuan-ManX/SoundHub) - AI Audio Framework 🛸
+
 - [DataForm](https://github.com/Yuan-ManX/dataform) - Data Processing Toolkit 🔥
 
 - [NexEngine](https://github.com/Yuan-ManX/NexEngine) - Game Engine 🎮
