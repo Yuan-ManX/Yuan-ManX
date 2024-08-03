@@ -34,8 +34,9 @@
 - AI Project
   - AI OS :  [01 Project](https://github.com/OpenInterpreter/01),
   - LLama :  [LLama Agentic System](https://github.com/meta-llama/llama-agentic-system),
-  - Audio :  [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS), [ChatTTS](https://github.com/2noise/ChatTTS), [StableTTS](https://github.com/KdaiP/StableTTS), [ArtNex](https://github.com/Yuan-ManX/artnex), [DataForm](https://github.com/Yuan-ManX/dataform), [SoundHub](https://github.com/Yuan-ManX/SoundHub),
-  - [ScrapeGraphAI](https://github.com/VinciGit00/Scrapegraph-ai), [RAGoon](https://github.com/louisbrulenaudet/ragoon), [SearchPhi](https://github.com/AstraBert/SearchPhi), [Open-Sora](https://github.com/hpcaitech/Open-Sora), [DiffSynth Studio](https://github.com/modelscope/DiffSynth-Studio), [FastHTML](https://github.com/AnswerDotAI/fasthtml)
+  - Audio :  [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS), [ChatTTS](https://github.com/2noise/ChatTTS), [StableTTS](https://github.com/KdaiP/StableTTS), [SoundHub](https://github.com/Yuan-ManX/SoundHub),
+  - AI Search Engine :  [ScrapeGraphAI](https://github.com/VinciGit00/Scrapegraph-ai), [RAGoon](https://github.com/louisbrulenaudet/ragoon), [SearchPhi](https://github.com/AstraBert/SearchPhi), [Open-Sora](https://github.com/hpcaitech/Open-Sora), [DiffSynth Studio](https://github.com/modelscope/DiffSynth-Studio), [FastHTML](https://github.com/AnswerDotAI/fasthtml)
+  - LLM/Dataset :  [ArtNex](https://github.com/Yuan-ManX/artnex), [DataForm](https://github.com/Yuan-ManX/dataform),
 
 ### I love everything I love！
 ### “日日行不怕千万里，时时做不惧千万事。”
