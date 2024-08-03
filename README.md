@@ -36,7 +36,7 @@
   - LLama :  [LLama Agentic System](https://github.com/meta-llama/llama-agentic-system),
   - Audio :  [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS), [ChatTTS](https://github.com/2noise/ChatTTS), [StableTTS](https://github.com/KdaiP/StableTTS), [SoundHub](https://github.com/Yuan-ManX/SoundHub),
   - Video/Image :  [Open-Sora](https://github.com/hpcaitech/Open-Sora), [DiffSynth Studio](https://github.com/modelscope/DiffSynth-Studio),
-  - AI Search Engine :  [ScrapeGraphAI](https://github.com/VinciGit00/Scrapegraph-ai), [RAGoon](https://github.com/louisbrulenaudet/ragoon), [SearchPhi](https://github.com/AstraBert/SearchPhi),
+  - AI Search Engine :  [MindSearch](https://github.com/InternLM/MindSearch), [ScrapeGraphAI](https://github.com/VinciGit00/Scrapegraph-ai), [RAGoon](https://github.com/louisbrulenaudet/ragoon), [SearchPhi](https://github.com/AstraBert/SearchPhi),
   - LLM/Dataset :  [ArtNex](https://github.com/Yuan-ManX/artnex), [DataForm](https://github.com/Yuan-ManX/dataform),
   - Tool :  [FastHTML](https://github.com/AnswerDotAI/fasthtml),
 
