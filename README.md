@@ -30,6 +30,7 @@
   - Audio :  [Audio AI Timeline](https://github.com/archinetai/audio-ai-timeline), [AI Audio Startups](https://github.com/csteinmetz1/ai-audio-startups), [Audio Development Tools (ADT) 🔥](https://github.com/Yuan-ManX/audio-development-tools),[Large Audio Models](https://github.com/liusongxiang/Large-Audio-Models), [🔱 Speech Trident](https://github.com/ga642381/speech-trident), [Open-Source Audio Plugins & Apps](https://github.com/webprofusion/OpenAudio), [Awesome Music Informatics](https://github.com/yamathcy/awesome-music-informatics), [AudioLLMs](https://github.com/AudioLLMs/AudioLLM), [Awesome Large Language Models in Audio AI](https://github.com/EmulationAI/awesome-large-audio-models),
   - ComfyUI :  [ComfyUI Tools Roadmap](https://github.com/Yuan-ManX/ComfyUI-Tools-Roadmap),
   - Mamba :  [Awesome State-Space Resources for ML](https://github.com/AvivBick/awesome-ssm-ml),
+  - AI-Startups :  [AI-Startups 🚀](https://github.com/Yuan-ManX/AI-Startups),
 
 - AI Project
   - AI OS :  [01 Project](https://github.com/OpenInterpreter/01),
