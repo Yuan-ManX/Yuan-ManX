@@ -39,6 +39,7 @@
   - Video/Image :  [Open-Sora](https://github.com/hpcaitech/Open-Sora), [DiffSynth Studio](https://github.com/modelscope/DiffSynth-Studio),
   - AI Search Engine :  [MindSearch](https://github.com/InternLM/MindSearch), [ScrapeGraphAI](https://github.com/VinciGit00/Scrapegraph-ai), [RAGoon](https://github.com/louisbrulenaudet/ragoon), [SearchPhi](https://github.com/AstraBert/SearchPhi),
   - LLM/Dataset :  [ArtNex](https://github.com/Yuan-ManX/artnex), [DataForm](https://github.com/Yuan-ManX/dataform),
+  - Civitai Model :  [Model](https://civitai.com/user/Y_Man),
   - Tool :  [FastHTML](https://github.com/AnswerDotAI/fasthtml),
 
 ### I love everything I love！
