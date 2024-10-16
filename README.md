@@ -18,6 +18,8 @@
 
 - [MultiClip](https://github.com/Yuan-ManX/multi-clip) - MultiModal Clip 🤖
 
+- [Civitai](https://civitai.com/user/Y_Man) - Open Source AI Models ✨
+
 
 ### AI Research:
 
