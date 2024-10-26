@@ -4,7 +4,7 @@
 [![Yuan-Man's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yuan-ManX&show_icons=true&theme=radical)](https://github.com/Yuan-ManX/github-readme-stats)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yuan-ManX&layout=compact)](https://github.com/Yuan-ManX/github-readme-stats)
 
-### Research & Hobbies： Sound, Music, AI, Game Development, Code, Design, etc. 🎸🎹🥁🎻🎺🎤🎧
+### Research & Hobbies： AI, Digital Art, Game, Music, Sound, Code, Design, etc. 🎸🎹🥁🎻🎺🎤🎧
 
 - [SouPyX](https://github.com/Yuan-ManX/SouPyX) - Audio Toolkit 🎵
 
