@@ -24,7 +24,7 @@
 ### AI Research:
 
 - AI Resources
-  - Game :  [AI Game DevTools (AI-GDT) 🎮](https://github.com/Yuan-ManX/ai-game-development-tools), [Game Engine 🎮](https://github.com/Yuan-ManX/game-engine),
+  - Game :  [AI Game DevTools (AI-GDT) 🎮](https://github.com/Yuan-ManX/ai-game-development-tools), [AI-Native Game 🎮](https://github.com/Yuan-ManX/AI-Native-Game), [Game Engine 🎮](https://github.com/Yuan-ManX/game-engine),
   - Dataset :  [AI Audio Datasets (AI-ADL) 🎵](https://github.com/Yuan-ManX/ai-audio-datasets),
   - LLM :  [LLM App Stack](https://github.com/a16z-infra/llm-app-stack), [🤖 Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt),
   - Agent :  [AI Agent Roadmap](https://github.com/Yuan-ManX/ai-agent-roadmap), [AI Voice Agents](https://github.com/Yuan-ManX/ai-voice-agents), [Audio AI Agent](https://github.com/Yuan-ManX/audio-ai-agent),
