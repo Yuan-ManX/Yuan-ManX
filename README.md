@@ -41,6 +41,7 @@
   - Video/Image :  [Open-Sora](https://github.com/hpcaitech/Open-Sora), [DiffSynth Studio](https://github.com/modelscope/DiffSynth-Studio),
   - Avatar :  [Hallo2](https://github.com/fudan-generative-vision/hallo2),
   - AI Search Engine :  [MindSearch](https://github.com/InternLM/MindSearch), [ScrapeGraphAI](https://github.com/VinciGit00/Scrapegraph-ai), [RAGoon](https://github.com/louisbrulenaudet/ragoon), [SearchPhi](https://github.com/AstraBert/SearchPhi),
+  - ComfyUI :  [ComfyUI-SoundHub](https://github.com/Yuan-ManX/ComfyUI-SoundHub), [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager),
   - LLM/Dataset :  [ArtNex](https://github.com/Yuan-ManX/artnex), [DataForm](https://github.com/Yuan-ManX/dataform),
   - AI Model :  [Civitai](https://civitai.com/user/Y_Man),
   - Tool :  [FastHTML](https://github.com/AnswerDotAI/fasthtml),
