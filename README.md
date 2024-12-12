@@ -44,7 +44,7 @@
   - ComfyUI :  [ComfyUI-LLaMA-Mesh](https://github.com/Yuan-ManX/ComfyUI-LLaMA-Mesh), [ComfyUI-SoundHub](https://github.com/Yuan-ManX/ComfyUI-SoundHub), [ComfyUI Manager](https://github.com/ltdrdata/ComfyUI-Manager),
   - LLM/Dataset :  [ArtNex](https://github.com/Yuan-ManX/artnex), [DataForm](https://github.com/Yuan-ManX/dataform),
   - AI Model :  [Civitai](https://civitai.com/user/Y_Man),
-  - PyTorch :  [Stable Diffusion PyTorch](https://github.com/Yuan-ManX/Stable-Diffusion-PyTorch), [Audio Diffusion](https://github.com/Yuan-ManX/Audio-Diffusion), [Stable Audio PyTorch](https://github.com/Yuan-ManX/Stable-Audio-PyTorch), [RVQ PyTorch](https://github.com/Yuan-ManX/RVQ-PyTorch),
+  - PyTorch :  [Stable Diffusion PyTorch](https://github.com/Yuan-ManX/Stable-Diffusion-PyTorch), [Audio Diffusion](https://github.com/Yuan-ManX/Audio-Diffusion), [Stable Audio PyTorch](https://github.com/Yuan-ManX/Stable-Audio-PyTorch), [RVQ PyTorch](https://github.com/Yuan-ManX/RVQ-PyTorch), [MusicGen PyTorch](https://github.com/Yuan-ManX/MusicGen-PyTorch),
   - Tool :  [FastHTML](https://github.com/AnswerDotAI/fasthtml),
 
 ### I love everything I love！
