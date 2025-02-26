@@ -1,11 +1,11 @@
 ### Hi there，Welcome to my Art and Technology Creative Space！ 🌏🌌🌊
-### Bringing Cutting-Edge AI into the Real World!
 ### I'm Derrick / Yuan Man（袁满） ！👋
 
 [![Yuan-Man's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yuan-ManX&show_icons=true&theme=radical)](https://github.com/Yuan-ManX/github-readme-stats)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yuan-ManX&layout=compact)](https://github.com/Yuan-ManX/github-readme-stats)
 
 ### Research & Hobbies： AI, Digital Art, Game, Music, Film, Sound, Code, Design, etc. 🎸🎹🥁🎻🎺🎤🎧
+### Bringing Cutting-Edge AI into the Real World!
 
 - [SouPyX](https://github.com/Yuan-ManX/SouPyX) - Audio Toolkit 🎵
 
