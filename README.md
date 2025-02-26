@@ -37,7 +37,7 @@
 - AI Project
   - AI OS :  [01 Project](https://github.com/OpenInterpreter/01),
   - LLama :  [LLama Agentic System](https://github.com/meta-llama/llama-agentic-system),
-  - Audio :  [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS), [ChatTTS](https://github.com/2noise/ChatTTS), [StableTTS](https://github.com/KdaiP/StableTTS), [SoundHub](https://github.com/Yuan-ManX/SoundHub), [GLM-4-Voice](https://github.com/THUDM/GLM-4-Voice),
+  - Audio :  [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS), [ChatTTS](https://github.com/2noise/ChatTTS), [StableTTS](https://github.com/KdaiP/StableTTS), [SoundHub](https://github.com/Yuan-ManX/SoundHub), [Amphion](https://github.com/open-mmlab/Amphion), [GLM-4-Voice](https://github.com/THUDM/GLM-4-Voice),
   - Video/Image :  [Open-Sora](https://github.com/hpcaitech/Open-Sora), [DiffSynth Studio](https://github.com/modelscope/DiffSynth-Studio),
   - Avatar :  [Hallo2](https://github.com/fudan-generative-vision/hallo2),
   - AI Search Engine :  [MindSearch](https://github.com/InternLM/MindSearch), [ScrapeGraphAI](https://github.com/VinciGit00/Scrapegraph-ai), [RAGoon](https://github.com/louisbrulenaudet/ragoon), [SearchPhi](https://github.com/AstraBert/SearchPhi),
