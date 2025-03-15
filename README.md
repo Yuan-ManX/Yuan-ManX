@@ -11,13 +11,13 @@
 
 - [ArtNex](https://github.com/Yuan-ManX/artnex) - Deep Learning Framework 🚀
 
+- [Innovator](https://github.com/Yuan-ManX/Innovator) - AI Agent Framework 🤖
+
 - [SoundHub](https://github.com/Yuan-ManX/SoundHub) - AI Audio Framework 🛸
 
 - [DataForm](https://github.com/Yuan-ManX/dataform) - Data Processing Toolkit 🔥
 
 - [NexEngine](https://github.com/Yuan-ManX/NexEngine) - Game Engine 🎮
-
-- [MultiClip](https://github.com/Yuan-ManX/multi-clip) - MultiModal Clip 🤖
 
 - [Civitai](https://civitai.com/user/Y_Man) - Open Source AI Models ✨
 
