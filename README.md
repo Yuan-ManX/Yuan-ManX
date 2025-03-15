@@ -27,7 +27,7 @@
 - AI Resources
   - Game :  [AI Game DevTools (AI-GDT)](https://github.com/Yuan-ManX/ai-game-development-tools), [AI Native Game](https://github.com/Yuan-ManX/AI-Native-Game), [Game Engine 🎮](https://github.com/Yuan-ManX/game-engine),
   - Dataset :  [AI Audio Datasets (AI-ADL) 🎵](https://github.com/Yuan-ManX/ai-audio-datasets),
-  - LLM :  [LLM App Stack](https://github.com/a16z-infra/llm-app-stack), [🤖 Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt),
+  - LLM :  [LLM App Stack](https://github.com/a16z-infra/llm-app-stack), [🤖 Awesome ChatGPT](https://github.com/sindresorhus/awesome-chatgpt), [Awesome DeepSeek Integrations](https://github.com/deepseek-ai/awesome-deepseek-integration),
   - Agent :  [AI Agent Roadmap](https://github.com/Yuan-ManX/ai-agent-roadmap), [AI Voice Agents](https://github.com/Yuan-ManX/ai-voice-agents), [Audio AI Agent](https://github.com/Yuan-ManX/audio-ai-agent),
   - Multimodal :  [AI Multimodal Timeline](https://github.com/Yuan-ManX/ai-multimodal-timeline),
   - Audio :  [Audio AI Timeline](https://github.com/archinetai/audio-ai-timeline), [AI Audio Startups](https://github.com/csteinmetz1/ai-audio-startups), [Audio Development Tools (ADT) 🔥](https://github.com/Yuan-ManX/audio-development-tools),[Large Audio Models](https://github.com/liusongxiang/Large-Audio-Models), [🔱 Speech Trident](https://github.com/ga642381/speech-trident), [Open-Source Audio Plugins & Apps](https://github.com/webprofusion/OpenAudio), [Awesome Music Informatics](https://github.com/yamathcy/awesome-music-informatics), [AudioLLMs](https://github.com/AudioLLMs/AudioLLM), [Awesome Large Language Models in Audio AI](https://github.com/EmulationAI/awesome-large-audio-models),
