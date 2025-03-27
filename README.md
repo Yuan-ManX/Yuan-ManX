@@ -13,6 +13,8 @@
 
 - [Innovator](https://github.com/Yuan-ManX/Innovator) - AI Agent Framework 🤖
 
+- [PodcastGen](https://github.com/Yuan-ManX/PodcastGen) - AI Podcast Generation 🎙️
+
 - [SoundHub](https://github.com/Yuan-ManX/SoundHub) - AI Audio Framework 🛸
 
 - [DataForm](https://github.com/Yuan-ManX/dataform) - Data Processing Toolkit 🔥
