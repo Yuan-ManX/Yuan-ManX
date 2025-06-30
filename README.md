@@ -1,7 +1,7 @@
 ### Hi there，Welcome to my Art and Technology Creative Space！ 🌏🌌🌊
 ### I'm Derrick / Yuan Man（袁满） ！👋
 
-[![Yuan-Man's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yuan-ManX&show_icons=true&theme=radical)](https://github.com/Yuan-ManX/github-readme-stats)
+[![Yuan-Man's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuan-ManX&show_icons=true&theme=radical)](https://github.com/Yuan-ManX/github-readme-stats)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yuan-ManX&layout=compact)](https://github.com/Yuan-ManX/github-readme-stats)
 
 ### Bringing Cutting-Edge AI into the Real World!
