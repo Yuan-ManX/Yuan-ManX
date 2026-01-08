@@ -9,9 +9,9 @@
 
 - [SouPyX](https://github.com/Yuan-ManX/SouPyX) - Audio Toolkit 🎵
 
-- [ArtNex](https://github.com/Yuan-ManX/artnex) - Deep Learning Framework 🚀
-
 - [Innovator](https://github.com/Yuan-ManX/Innovator) - AI Agent Framework 🤖
+
+- [ArtNex](https://github.com/Yuan-ManX/artnex) - Deep Learning Framework 🚀
 
 - [PodcastGen](https://github.com/Yuan-ManX/PodcastGen) - AI Podcast Generation 🎙️
 
