@@ -11,6 +11,8 @@
 
 - [Innovator](https://github.com/Yuan-ManX/Innovator) - AI Agent Framework 🤖
 
+- [Code Agent](https://github.com/Yuan-ManX/code-agent) - Code Agent 💻
+
 - [ArtNex](https://github.com/Yuan-ManX/artnex) - Deep Learning Framework 🚀
 
 - [PodcastGen](https://github.com/Yuan-ManX/PodcastGen) - AI Podcast Generation 🎙️
