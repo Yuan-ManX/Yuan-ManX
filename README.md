@@ -13,9 +13,9 @@
 
 - [Code Agent](https://github.com/Yuan-ManX/code-agent) - Code Agent — A Minimal, Terminal-First Coding Agent. 💻
 
-- [ArtNex](https://github.com/Yuan-ManX/artnex) - Deep Learning Framework 🚀
+- [ArtNex](https://github.com/Yuan-ManX/artnex) - Deep Learning Framework - ArtNex is a deep learning framework exploring the innovative fusion of art and technology. 🚀
 
-- [PodcastGen](https://github.com/Yuan-ManX/PodcastGen) - AI Podcast Generation 🎙️
+- [PodcastGen](https://github.com/Yuan-ManX/PodcastGen) - AI Podcast Generation - PodcastGen is an AI-powered intelligent podcast generation tool! 🎙️
 
 - [SoundHub](https://github.com/Yuan-ManX/SoundHub) - AI Audio Framework 🛸
 
