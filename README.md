@@ -7,11 +7,11 @@
 ### Bringing Cutting-Edge AI into the Real World!
 ### Research & Hobbies： AI, Digital Art, Game, Music, Film, Sound, Code, Design, etc. 🎸🎹🥁🎻🎺🎤🎧
 
-- [SouPyX](https://github.com/Yuan-ManX/SouPyX) - Audio Toolkit 🎵
+- [SouPyX](https://github.com/Yuan-ManX/SouPyX) - SouPyX (Sound Python Explore): An Audio Exploration Space.🎵
 
-- [Innovator](https://github.com/Yuan-ManX/Innovator) - AI Agent Framework 🤖
+- [Innovator](https://github.com/Yuan-ManX/Innovator) - Innovator — A General AI Agent Framework for Animation, Film & Game Creation. 🤖
 
-- [Code Agent](https://github.com/Yuan-ManX/code-agent) - Code Agent 💻
+- [Code Agent](https://github.com/Yuan-ManX/code-agent) - Code Agent — A Minimal, Terminal-First Coding Agent. 💻
 
 - [ArtNex](https://github.com/Yuan-ManX/artnex) - Deep Learning Framework 🚀
 
