@@ -13,7 +13,7 @@
 
 - [Code Agent](https://github.com/Yuan-ManX/code-agent) - Code Agent — A Minimal, Terminal-First Coding Agent. 💻
 
-- [NanoClaw](https://github.com/Yuan-ManX/nanoclaw) - NanoClaw — A Lightweight, Action-oriented Personal AI Assistant. 🦞
+- [ClawAI](https://github.com/Yuan-ManX/clawai) - ClawAI — A Lightweight, Action-oriented Personal AI Assistant. 🦞
 
 - [Infera](https://github.com/Yuan-ManX/infera) - Infera — A High-Performance Inference Engine for Large Language Models. 🚀
 
