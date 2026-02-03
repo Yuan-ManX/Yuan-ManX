@@ -13,6 +13,8 @@
 
 - [Code Agent](https://github.com/Yuan-ManX/code-agent) - Code Agent — A Minimal, Terminal-First Coding Agent. 💻
 
+- [NanoClaw](https://github.com/Yuan-ManX/nanoclaw) - NanoClaw — A Lightweight, Action-oriented Personal AI Assistant. 🦞
+
 - [Infera](https://github.com/Yuan-ManX/infera) - Infera — A High-Performance Inference Engine for Large Language Models. 🚀
 
 - [ArtNex](https://github.com/Yuan-ManX/artnex) - Deep Learning Framework - ArtNex is a deep learning framework exploring the innovative fusion of art and technology. 🧠
