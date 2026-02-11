@@ -11,6 +11,8 @@
 
 - [Innovator](https://github.com/Yuan-ManX/Innovator) - Innovator — A General AI Agent Framework for Animation, Film & Game Creation. 🤖
 
+- [StoryCraft](https://github.com/Yuan-ManX/StoryCraft) - StoryCraft — Crafting Cinematic Stories with AI Agents. 🎬
+
 - [Code Agent](https://github.com/Yuan-ManX/code-agent) - Code Agent — A Minimal, Terminal-First Coding Agent. 💻
 
 - [ClawAI](https://github.com/Yuan-ManX/clawai) - ClawAI — A Lightweight, Action-oriented Personal AI Assistant. 🦞
