@@ -21,7 +21,7 @@
 
 - [Infera](https://github.com/Yuan-ManX/infera) - Infera — A High-Performance Inference Engine for Large Language Models. 🚀
 
-- [ArtNex](https://github.com/Yuan-ManX/artnex) - Deep Learning Framework - ArtNex is a deep learning framework exploring the innovative fusion of art and technology. 🧠
+- [ArtNex](https://github.com/Yuan-ManX/artnex) - Deep Learning Framework - ArtNex is a deep learning framework exploring the innovative fusion of art and technology. 🔮
 
 - [PodcastGen](https://github.com/Yuan-ManX/PodcastGen) - AI Podcast Generation - PodcastGen is an AI-powered intelligent podcast generation tool! 🎙️
 
