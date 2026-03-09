@@ -19,7 +19,7 @@
 
 - [ClawAI](https://github.com/Yuan-ManX/clawai) - ClawAI — A Lightweight, Action-oriented Personal AI Assistant. 🦞
 
-- [AutoLab](https://github.com/Yuan-ManX/autolab) - AutoLab — Autonomous AI Research Lab. 💡
+- [AutoLab](https://github.com/Yuan-ManX/autolab) - AutoLab — Autonomous AI Research Lab. 🔬
 
 - [Memex](https://github.com/Yuan-ManX/Memex) - Memex — Memory Infrastructure for AI Agents. 🧠
 
