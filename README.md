@@ -23,6 +23,8 @@
 
 - [Memex](https://github.com/Yuan-ManX/Memex) - Memex — Memory Infrastructure for AI Agents. 🧠
 
+- [AgentVerse](https://github.com/Yuan-ManX/AgentVerse) - AgentVerse — The Universe Where AI Agents Collaborate. 🌌
+
 - [Infera](https://github.com/Yuan-ManX/infera) - Infera — A High-Performance Inference Engine for Large Language Models. 🚀
 
 - [ArtNex](https://github.com/Yuan-ManX/artnex) - Deep Learning Framework - ArtNex is a deep learning framework exploring the innovative fusion of art and technology. 🔮
