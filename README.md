@@ -9,7 +9,7 @@
 
 - [SouPyX](https://github.com/Yuan-ManX/SouPyX) - SouPyX (Sound Python Explore): An Audio Exploration Space.🎵
 
-- [EXO](https://github.com/Yuan-ManX/EXO) - EXO - Explore, Extend, Evolve AI Agent Cognition(Skills).
+- [EXO](https://github.com/Yuan-ManX/EXO) - EXO - An AI Agent Skills Exploration, Extension, and Evolution Framework.
 
 - [Innovator](https://github.com/Yuan-ManX/Innovator) - Innovator — A General AI Agent Framework for Animation, Film & Game Creation. 🤖
 
