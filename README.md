@@ -33,13 +33,13 @@
 
 - [PodcastGen](https://github.com/Yuan-ManX/PodcastGen) :  PodcastGen is an AI-powered intelligent podcast generation tool! 🎙️
 
-- [SoundHub](https://github.com/Yuan-ManX/SoundHub) - AI Audio Framework 🛸
+- [SoundHub](https://github.com/Yuan-ManX/SoundHub) :  AI Audio Framework 🛸
 
-- [DataForm](https://github.com/Yuan-ManX/dataform) - Data Processing Toolkit 🔥
+- [DataForm](https://github.com/Yuan-ManX/dataform) :  Data Processing Toolkit 🔥
 
-- [NexEngine](https://github.com/Yuan-ManX/NexEngine) - Game Engine 🎮
+- [NexEngine](https://github.com/Yuan-ManX/NexEngine) :  Game Engine 🎮
 
-- [Civitai](https://civitai.com/user/Y_Man) - Open Source AI Models ✨
+- [Civitai](https://civitai.com/user/Y_Man) :  Open Source AI Models ✨
 
 
 ### AI Research:
