@@ -7,9 +7,9 @@
 ### Bringing Cutting-Edge AI into the Real World!
 ### Research & Hobbies： AI, Digital Art, Game, Music, Film, Sound, Code, Design, etc. 🎸🎹🥁🎻🎺🎤🎧
 
-- [SouPyX](https://github.com/Yuan-ManX/SouPyX) :  Sound Python Explore - An Audio Exploration Space.🎵
-
 - [Octopai](https://github.com/Yuan-ManX/octopai) :  The Skill Evolution Intelligence Engine for AI Agents. 🚀
+
+- [SouPyX](https://github.com/Yuan-ManX/SouPyX) :  Sound Python Explore - An Audio Exploration Space.🎵
 
 - [Innovator](https://github.com/Yuan-ManX/Innovator) :  A General AI Agent Framework for Animation, Film & Game Creation. 🤖
 
