@@ -7,31 +7,31 @@
 ### Bringing Cutting-Edge AI into the Real World!
 ### Research & Hobbies： AI, Digital Art, Game, Music, Film, Sound, Code, Design, etc. 🎸🎹🥁🎻🎺🎤🎧
 
-- [SouPyX](https://github.com/Yuan-ManX/SouPyX) - SouPyX (Sound Python Explore): An Audio Exploration Space.🎵
+- [SouPyX](https://github.com/Yuan-ManX/SouPyX) :  Sound Python Explore - An Audio Exploration Space.🎵
 
-- [EXO](https://github.com/Yuan-ManX/EXO) - EXO - An AI Agent Skills Exploration, Extension, and Evolution Intelligence Engine. 🚀
+- [EXO](https://github.com/Yuan-ManX/EXO) :  An AI Agent Skills Exploration, Extension, and Evolution Intelligence Engine. 🚀
 
-- [Innovator](https://github.com/Yuan-ManX/Innovator) - Innovator — A General AI Agent Framework for Animation, Film & Game Creation. 🤖
+- [Innovator](https://github.com/Yuan-ManX/Innovator) :  A General AI Agent Framework for Animation, Film & Game Creation. 🤖
 
-- [StoryCraft](https://github.com/Yuan-ManX/StoryCraft) - StoryCraft — Crafting Cinematic Stories with AI Agents. 🎬
+- [StoryCraft](https://github.com/Yuan-ManX/StoryCraft) :  Crafting Cinematic Stories with AI Agents. 🎬
 
-- [Code Agent](https://github.com/Yuan-ManX/code-agent) - Code Agent — A Minimal, Terminal-First Coding Agent. 💻
+- [Code Agent](https://github.com/Yuan-ManX/code-agent) :  A Minimal, Terminal-First Coding Agent. 💻
 
-- [SwarmMind](https://github.com/Yuan-ManX/SwarmMind) - SwarmMind — Swarm Intelligence Infrastructure for AI Agents. 🐝
+- [SwarmMind](https://github.com/Yuan-ManX/SwarmMind) :  Swarm Intelligence Infrastructure for AI Agents. 🐝
 
-- [ClawAI](https://github.com/Yuan-ManX/clawai) - ClawAI — A Lightweight, Action-oriented Personal AI Assistant. 🦞
+- [ClawAI](https://github.com/Yuan-ManX/clawai) :  A Lightweight, Action-oriented Personal AI Assistant. 🦞
 
-- [AutoLab](https://github.com/Yuan-ManX/autolab) - AutoLab — Autonomous AI Research Lab. 🔬
+- [AutoLab](https://github.com/Yuan-ManX/autolab) :  Autonomous AI Research Lab. 🔬
 
-- [Memex](https://github.com/Yuan-ManX/Memex) - Memex — Memory Infrastructure for AI Agents. 🧠
+- [Memex](https://github.com/Yuan-ManX/Memex) :  Memory Infrastructure for AI Agents. 🧠
 
-- [AgentVerse](https://github.com/Yuan-ManX/AgentVerse) - AgentVerse — The Universe Where AI Agents Collaborate. 🌌
+- [AgentVerse](https://github.com/Yuan-ManX/AgentVerse) :  The Universe Where AI Agents Collaborate. 🌌
 
-- [Infera](https://github.com/Yuan-ManX/infera) - Infera — A High-Performance Inference Engine for Large Language Models. 🚀
+- [Infera](https://github.com/Yuan-ManX/infera) :  A High-Performance Inference Engine for Large Language Models. 🚀
 
-- [ArtNex](https://github.com/Yuan-ManX/artnex) - Deep Learning Framework - ArtNex is a deep learning framework exploring the innovative fusion of art and technology. 🔮
+- [ArtNex](https://github.com/Yuan-ManX/artnex) :  ArtNex is a deep learning framework exploring the innovative fusion of art and technology. 🔮
 
-- [PodcastGen](https://github.com/Yuan-ManX/PodcastGen) - AI Podcast Generation - PodcastGen is an AI-powered intelligent podcast generation tool! 🎙️
+- [PodcastGen](https://github.com/Yuan-ManX/PodcastGen) :  PodcastGen is an AI-powered intelligent podcast generation tool! 🎙️
 
 - [SoundHub](https://github.com/Yuan-ManX/SoundHub) - AI Audio Framework 🛸
 
