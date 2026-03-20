@@ -9,7 +9,7 @@
 
 - [Octopai](https://github.com/Yuan-ManX/octopai) :  The Skill Evolution Intelligence Engine for AI Agents. 🐙
 
-- [SparkLabs](https://github.com/Yuan-ManX/SparkLabs) :  The AI Native Game Engine. 💥 🎮
+- [Spark Labs](https://github.com/Yuan-ManX/SparkLabs) :  The AI Native Game Engine. 💥 🎮
 
 - [SouPyX](https://github.com/Yuan-ManX/SouPyX) :  Sound Python Explore - An Audio Exploration Space.🎵
 
