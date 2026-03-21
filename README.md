@@ -7,7 +7,7 @@
 ### Bringing Cutting-Edge AI into the Real World!
 ### Research & Hobbies： AI, Digital Art, Game, Music, Film, Sound, Code, Design, etc. 🎸🎹🥁🎻🎺🎤🎧
 
-- [Octopai](https://github.com/Yuan-ManX/octopai) :  The Skill Evolution Intelligence Engine for AI Agents. 🐙
+- [Octopai](https://github.com/Yuan-ManX/octopai) :  The AI Agent Evolution Intelligence Engine. 🐙
 
 - [SparkLabs](https://github.com/Yuan-ManX/SparkLabs) :  The First AI-Native Game Engine. 💥 🎮
 
