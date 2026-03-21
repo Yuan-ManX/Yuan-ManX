@@ -19,7 +19,7 @@
 
 - [Code Agent](https://github.com/Yuan-ManX/code-agent) :  A Minimal, Terminal-First Coding Agent. 💻
 
-- [SwarmMind](https://github.com/Yuan-ManX/SwarmMind) :  Swarm Intelligence Infrastructure for AI Agents. 🐝
+- [SwarmMind](https://github.com/Yuan-ManX/SwarmMind) :  Swarm Intelligence Engine for AI Agents. 🐝
 
 - [ClawAI](https://github.com/Yuan-ManX/clawai) :  A Lightweight, Action-oriented Personal AI Assistant. 🦞
 
