@@ -23,7 +23,7 @@
 
 - [ClawAI](https://github.com/Yuan-ManX/clawai) :  A Lightweight, Action-oriented Personal AI Assistant. 🦞
 
-- [AutoLab](https://github.com/Yuan-ManX/autolab) :  Autonomous AI Research Lab. 🔬
+- [IRPG](https://github.com/Yuan-ManX/IRPG) :  Infinite Research & Play Ground - Autonomous AI Research Lab. ♾️ 🔬
 
 - [Memex](https://github.com/Yuan-ManX/Memex) :  Memory Infrastructure for AI Agents. 🧠
 
