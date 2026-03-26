@@ -11,6 +11,8 @@
 
 - [SparkLabs](https://github.com/Yuan-ManX/SparkLabs) :  The First AI-Native Game Engine. 💥 🎮
 
+- [Harness Engine](https://github.com/Yuan-ManX/HarnessEngine) :  Automatic Harness Engine for AI Systems. 
+
 - [SouPyX](https://github.com/Yuan-ManX/SouPyX) :  Sound Python Explore - An Audio Exploration Space.🎵
 
 - [Innovator](https://github.com/Yuan-ManX/Innovator) :  A General AI Agent Framework for Animation, Film & Game Creation. 🤖
