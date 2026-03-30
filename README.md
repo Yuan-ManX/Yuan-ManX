@@ -11,7 +11,7 @@
 
 - [SparkLabs](https://github.com/Yuan-ManX/SparkLabs) :  The First AI-Native Game Engine. 💥 🎮
 
-- [Dreamix](https://github.com/Yuan-ManX/Dreamix) :  An AI-Native Interactive Video Agent. 🎬 🎮
+- [Action](https://github.com/Yuan-ManX/Action) :  An AI-Native Interactive Video Agent. 🎬 🎮
 
 - [Harness Engine](https://github.com/Yuan-ManX/HarnessEngine) :  Automatic Harness Engine for AI Systems. 
 
