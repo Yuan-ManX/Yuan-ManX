@@ -7,7 +7,7 @@
 ### Bringing Cutting-Edge AI into the Real World!
 ### Research & Hobbies： AI, Digital Art, Game, Music, Film, Sound, Code, Design, etc. 🎸🎹🥁🎻🎺🎤🎧
 
-- [Action](https://github.com/Yuan-ManX/Action) :  An AI-Native Interactive Video Agent. 🎬 🎮
+- [Action](https://github.com/Yuan-ManX/Action) :  The First AI-Native Agentic AIGC Engine. 🎬 🎮
 
 - [Octopai](https://github.com/Yuan-ManX/octopai) :  The Infinite Evolution Intelligence Engine for AI Agents. 🐙
 
