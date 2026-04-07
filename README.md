@@ -29,9 +29,9 @@
 
 - [AutoLab](https://github.com/Yuan-ManX/AutoLab) :  Infinite Research & Play Ground - Autonomous AI Research Lab. ♾️ 🔬
 
-- [Memex](https://github.com/Yuan-ManX/Memex) :  Memory Infrastructure for AI Agents. 🧠
+- [AutoOrg](https://github.com/Yuan-ManX/AutoOrg) :  Build Fully Automated AI Agent Organizations. 🤖
 
-- [AgentVerse](https://github.com/Yuan-ManX/AgentVerse) :  The Universe Where AI Agents Collaborate. 🌌
+- [Memex](https://github.com/Yuan-ManX/Memex) :  Memory Infrastructure for AI Agents. 🧠
 
 - [Infera](https://github.com/Yuan-ManX/infera) :  A High-Performance Inference Engine for Large Language Models. 🚀
 
