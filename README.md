@@ -9,7 +9,7 @@
 
 - [Action](https://github.com/Yuan-ManX/Action) :  The First AI-Native Agentic Creation Platform. 🎬 🎮
 
-- [Octopai](https://github.com/Yuan-ManX/octopai) :  The Infinite Evolution Intelligence Engine for AI Agents. 🐙
+- [Octopai](https://github.com/Yuan-ManX/octopai) :  The Infinite Evolution Skill Engine for AI Agents. 🐙
 
 - [SparkLabs](https://github.com/Yuan-ManX/SparkLabs) :  The First AI-Native Game Engine. 💥 🎮
 
