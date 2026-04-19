@@ -2,7 +2,7 @@
 ### I'm Derrick / Yuan Man ！👋
 
 [![Yuan-Man's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuan-ManX&show_icons=true&theme=radical)](https://github.com/Yuan-ManX/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuan-ManX&hide_progress=true)](https://github.com/Yuan-ManX/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuan-ManX&layout=compact)](https://github.com/Yuan-ManX/github-readme-stats)
 
 ### Bringing Cutting-Edge AI into the Real World!
 ### Research & Hobbies： AI, Digital Art, Game, Music, Film, Sound, Code, Design, etc. 🎸🎹🥁🎻🎺🎤🎧
