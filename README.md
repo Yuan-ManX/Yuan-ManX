@@ -1,4 +1,4 @@
-### Hi there，Welcome to my Art and Technology Creative Space！ 🌏🌌🌊
+### Hi there，Welcome to my Art and Technology Creative Space！ 🌏 🌌
 ### I'm Derrick / Yuan Man ！👋
 
 [![Yuan-Man's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuan-ManX&show_icons=true&theme=radical)](https://github.com/Yuan-ManX/github-readme-stats)
@@ -16,6 +16,8 @@
 - [Harness Engine](https://github.com/Yuan-ManX/HarnessEngine) :  Automatic Harness Engine for AI Systems.
 
 - [Awesome Agent Protocol](https://github.com/Yuan-ManX/awesome-agent-protocol) :  AI Agent Protocol. 🤖-🤖
+
+- [Chroma](https://huggingface.co/FlashLabs/Chroma-4B) :  A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning. ✨
 
 - [SouPyX](https://github.com/Yuan-ManX/SouPyX) :  Sound Python Explore - An Audio Exploration Space.🎵
 
