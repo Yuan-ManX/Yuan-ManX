@@ -11,6 +11,8 @@
 
 - [Action](https://github.com/Yuan-ManX/Action) :  AI-Native Agentic Creation Platform. 🎬 🎮
 
+- [GenPlay](https://github.com/Yuan-ManX/GenPlay) :  AI‑Native Interactive Video Game Platform. 🎮 🤖
+
 - [SoundX](https://github.com/Yuan-ManX/SoundX) :  AI-Native DAW (Digital Audio Workstation). 🎵
 
 - [Octopai](https://github.com/Yuan-ManX/octopai) :  The Infinite Evolution Skill Engine for AI Agents. 🐙
