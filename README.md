@@ -11,7 +11,7 @@
 
 - [Action](https://github.com/Yuan-ManX/Action) :  AI-Native Agentic Creation Platform. 🎬 🎮
 
-- [GenPlay](https://github.com/Yuan-ManX/GenPlay) :  AI-Native Interactive Game Agent Platform. 🎮 🤖
+- [GenPlay](https://github.com/Yuan-ManX/GenPlay) :  AI-Native Interactive Game Agent Platform. 🎮
 
 - [SoundX](https://github.com/Yuan-ManX/SoundX) :  AI-Native DAW (Digital Audio Workstation). 🎵
 
