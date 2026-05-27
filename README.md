@@ -25,6 +25,8 @@
 
 - [SouPyX](https://github.com/Yuan-ManX/SouPyX) :  Sound Python Explore - An Audio Exploration Space.🎵
 
+- [SoundMaster](https://github.com/Yuan-ManX/SoundMaster) :  AI-Native all-in-one audio platform.🎵
+
 - [Innovator](https://github.com/Yuan-ManX/Innovator) :  A General AI Agent Framework for Animation, Film & Game Creation. 🤖
 
 - [StoryCraft](https://github.com/Yuan-ManX/StoryCraft) :  Crafting Cinematic Stories with AI Agents. 🎬
