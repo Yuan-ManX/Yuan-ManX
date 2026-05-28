@@ -1,5 +1,7 @@
-### Hi there，Welcome to my Art and Technology Creative Space！ 🌏 🌌
-### I'm Derrick / Yuan Man ！👋
+# Hi, I'm Yuan Man 👋
+
+🚀  Welcome to my Art and Technology Creative Space！🌏
+
 
 [![Yuan-Man's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuan-ManX&show_icons=true&theme=radical)](https://github.com/Yuan-ManX/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuan-ManX&layout=compact)](https://github.com/Yuan-ManX/github-readme-stats)
@@ -20,6 +22,8 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
+
+## Current Projects
 
 - [SparkLabs](https://github.com/Yuan-ManX/SparkLabs) :  The First AI-Native Game Engine. 💥 🎮
 
