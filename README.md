@@ -19,62 +19,61 @@
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 
 ## Current Projects
 
-- [SparkLabs](https://github.com/Yuan-ManX/SparkLabs) :  The First AI-Native Game Engine. 💥 🎮
+- **[SparkLabs](https://github.com/Yuan-ManX/SparkLabs) :**  The First AI-Native Game Engine. 💥 🎮
 
-- [Action](https://github.com/Yuan-ManX/Action) :  AI-Native Agentic Creation Platform. 🎬 🎮
+- **[Action](https://github.com/Yuan-ManX/Action) :**  AI-Native Agentic Creation Platform. 🎬 🎮
 
-- [GenPlay](https://github.com/Yuan-ManX/GenPlay) :  AI-Native Interactive Game Agent Platform. 🎮
+- **[GenPlay](https://github.com/Yuan-ManX/GenPlay) :**  AI-Native Interactive Game Agent Platform. 🎮
 
-- [SoundX](https://github.com/Yuan-ManX/SoundX) :  AI-Native DAW (Digital Audio Workstation). 🎵
+- **[SoundX](https://github.com/Yuan-ManX/SoundX) :**  AI-Native DAW (Digital Audio Workstation). 🎵
 
-- [Octopai](https://github.com/Yuan-ManX/octopai) :  The Infinite Evolution Skill Engine for AI Agents. 🐙
+- **[Octopai](https://github.com/Yuan-ManX/octopai) :**  The Infinite Evolution Skill Engine for AI Agents. 🐙
 
-- [Harness Engine](https://github.com/Yuan-ManX/HarnessEngine) :  Automatic Harness Engine for AI Systems.
+- **[Harness Engine](https://github.com/Yuan-ManX/HarnessEngine) :**  Automatic Harness Engine for AI Systems.
 
-- [Awesome Agent Protocol](https://github.com/Yuan-ManX/awesome-agent-protocol) :  AI Agent Protocol. 🤖-🤖
+- **[Awesome Agent Protocol](https://github.com/Yuan-ManX/awesome-agent-protocol) :**  AI Agent Protocol. 🤖-🤖
 
-- [Chroma](https://huggingface.co/FlashLabs/Chroma-4B) :  A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning. ✨
+- **[Chroma](https://huggingface.co/FlashLabs/Chroma-4B) :**  A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning. ✨
 
-- [SouPyX](https://github.com/Yuan-ManX/SouPyX) :  Sound Python Explore - An Audio Exploration Space.🎵
+- **[SouPyX](https://github.com/Yuan-ManX/SouPyX) :**  Sound Python Explore - An Audio Exploration Space.🎵
 
-- [SoundMaster](https://github.com/Yuan-ManX/SoundMaster) :  AI-Native All-in-one Audio Platform.🎵
+- **[SoundMaster](https://github.com/Yuan-ManX/SoundMaster) :**  AI-Native All-in-one Audio Platform.🎵
 
-- [Innovator](https://github.com/Yuan-ManX/Innovator) :  A General AI Agent Framework for Animation, Film & Game Creation. 🤖
+- **[Innovator](https://github.com/Yuan-ManX/Innovator) :**  A General AI Agent Framework for Animation, Film & Game Creation. 🤖
 
-- [StoryCraft](https://github.com/Yuan-ManX/StoryCraft) :  Crafting Cinematic Stories with AI Agents. 🎬
+- **[StoryCraft](https://github.com/Yuan-ManX/StoryCraft) :**  Crafting Cinematic Stories with AI Agents. 🎬
 
-- [Code Agent](https://github.com/Yuan-ManX/code-agent) :  A Minimal, Terminal-First Coding Agent. 💻
+- **[Code Agent](https://github.com/Yuan-ManX/code-agent) :**  A Minimal, Terminal-First Coding Agent. 💻
 
-- [SwarmMind](https://github.com/Yuan-ManX/SwarmMind) :  Swarm Intelligence Engine for AI Agents. 🐝
+- **[SwarmMind](https://github.com/Yuan-ManX/SwarmMind) :**  Swarm Intelligence Engine for AI Agents. 🐝
 
-- [ClawAI](https://github.com/Yuan-ManX/clawai) :  A Lightweight, Action-oriented Personal AI Assistant. 🦞
+- **[ClawAI](https://github.com/Yuan-ManX/clawai) :**  A Lightweight, Action-oriented Personal AI Assistant. 🦞
 
-- [AutoLab](https://github.com/Yuan-ManX/AutoLab) :  Infinite Research & Play Ground - Autonomous AI Research Lab. ♾️ 🔬
+- **[AutoLab](https://github.com/Yuan-ManX/AutoLab) :**  Infinite Research & Play Ground - Autonomous AI Research Lab. ♾️ 🔬
 
-- [AutoOrg](https://github.com/Yuan-ManX/AutoOrg) :  Build Fully Automated AI Agent Organizations. 🤖
+- **[AutoOrg](https://github.com/Yuan-ManX/AutoOrg) :**  Build Fully Automated AI Agent Organizations. 🤖
 
-- [Memex](https://github.com/Yuan-ManX/Memex) :  Memory Infrastructure for AI Agents. 🧠
+- **[Memex](https://github.com/Yuan-ManX/Memex) :**  Memory Infrastructure for AI Agents. 🧠
 
-- [Infera](https://github.com/Yuan-ManX/infera) :  A High-Performance Inference Engine for Large Language Models. 🚀
+- **[Infera](https://github.com/Yuan-ManX/infera) :**  A High-Performance Inference Engine for Large Language Models. 🚀
 
-- [ArtNex](https://github.com/Yuan-ManX/artnex) :  ArtNex is a deep learning framework exploring the innovative fusion of art and technology. 🔮
+- **[ArtNex](https://github.com/Yuan-ManX/artnex) :**  ArtNex is a deep learning framework exploring the innovative fusion of art and technology. 🔮
 
-- [PodcastGen](https://github.com/Yuan-ManX/PodcastGen) :  PodcastGen is an AI-powered intelligent podcast generation tool! 🎙️
+- **[PodcastGen](https://github.com/Yuan-ManX/PodcastGen) :**  PodcastGen is an AI-powered intelligent podcast generation tool! 🎙️
 
-- [SoundHub](https://github.com/Yuan-ManX/SoundHub) :  AI Audio Framework 🛸
+- **[SoundHub](https://github.com/Yuan-ManX/SoundHub) :**  AI Audio Framework 🛸
 
-- [DataForm](https://github.com/Yuan-ManX/dataform) :  Data Processing Toolkit 🔥
+- **[DataForm](https://github.com/Yuan-ManX/dataform) :**  Data Processing Toolkit 🔥
 
-- [NexEngine](https://github.com/Yuan-ManX/NexEngine) :  Game Engine 🎮
+- **[NexEngine](https://github.com/Yuan-ManX/NexEngine) :**  Game Engine 🎮
 
-- [Civitai](https://civitai.com/user/Y_Man) :  Open Source AI Models ✨
+- **[Civitai](https://civitai.com/user/Y_Man) :**  Open Source AI Models ✨
 
 
 ## AI Research:
