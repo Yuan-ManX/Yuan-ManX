@@ -27,6 +27,8 @@
 
 - **[SparkLabs](https://github.com/Yuan-ManX/SparkLabs) :**  The First AI-Native Game Engine. 💥 🎮
 
+- **[Buddy](https://github.com/Yuan-ManX/Buddy) :**  AI-Native Buddy for Work, Life & Connection. ☀️
+
 - **[Action](https://github.com/Yuan-ManX/Action) :**  AI-Native Agentic Creation Platform. 🎬 🎮
 
 - **[GenPlay](https://github.com/Yuan-ManX/GenPlay) :**  AI-Native Interactive Game Agent Platform. 🎮
