@@ -37,6 +37,8 @@
 
 - **[Octopai](https://github.com/Yuan-ManX/octopai) :**  The Infinite Evolution Skill Engine for AI Agents. 🐙
 
+- **[Loop Engineering](https://github.com/Yuan-ManX/loop-engineering) :**  The Art of Loop Engineering 🚀
+
 - **[Harness Engine](https://github.com/Yuan-ManX/HarnessEngine) :**  Automatic Harness Engine for AI Systems.
 
 - **[Awesome Agent Protocol](https://github.com/Yuan-ManX/awesome-agent-protocol) :**  AI Agent Protocol. 🤖-🤖
