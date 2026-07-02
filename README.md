@@ -31,13 +31,13 @@
 
 - **[OpenMotion](https://github.com/Yuan-ManX/open-motion) :**  The Open-Source Figma Motion Alternative, Redefining AI-Native Motion Design. 🕹️
 
+- **[Octopai](https://github.com/Yuan-ManX/octopai) :**  The Infinite Evolution Skill Engine for AI Agents. 🐙
+
 - **[Action](https://github.com/Yuan-ManX/Action) :**  AI-Native Agentic Creation Platform. 🎬 🎮
 
 - **[GenPlay](https://github.com/Yuan-ManX/GenPlay) :**  AI-Native Interactive Game Agent Platform. 🎮
 
 - **[SoundX](https://github.com/Yuan-ManX/SoundX) :**  AI-Native DAW (Digital Audio Workstation). 🎵
-
-- **[Octopai](https://github.com/Yuan-ManX/octopai) :**  The Infinite Evolution Skill Engine for AI Agents. 🐙
 
 - **[Loop Engineering](https://github.com/Yuan-ManX/loop-engineering) :**  The Art of Loop Engineering 🚀
 
