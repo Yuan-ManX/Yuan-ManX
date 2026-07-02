@@ -29,6 +29,8 @@
 
 - **[Buddy](https://github.com/Yuan-ManX/Buddy) :**  AI-Native Buddy for Work, Life & Connection. ☀️
 
+- **[OpenMotion](https://github.com/Yuan-ManX/OpenMotion) :**  The Open-Source Figma Motion Alternative, Redefining AI-Native Animation. 🕹️
+
 - **[Action](https://github.com/Yuan-ManX/Action) :**  AI-Native Agentic Creation Platform. 🎬 🎮
 
 - **[GenPlay](https://github.com/Yuan-ManX/GenPlay) :**  AI-Native Interactive Game Agent Platform. 🎮
