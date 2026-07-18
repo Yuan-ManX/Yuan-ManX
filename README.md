@@ -29,7 +29,7 @@
 
 - **[Buddy](https://github.com/Yuan-ManX/Buddy) :**  AI-Native Buddy for Work, Life & Connection. ☀️
 
-- **[OpenMotion](https://github.com/Yuan-ManX/open-motion) :**  The AI-Native Motion Design Platform. 🕹️
+- **[OpenMotion](https://github.com/Yuan-ManX/open-motion) :**  The AI-Native Motion Design Platform, Redefining AI-Native Animation. 🕹️
 
 - **[Octopai](https://github.com/Yuan-ManX/octopai) :**  The Infinite Evolution Skill Engine for AI Agents. 🐙
 
