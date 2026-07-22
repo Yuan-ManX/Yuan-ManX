@@ -111,7 +111,7 @@
   - **Tool :**  [FastHTML](https://github.com/AnswerDotAI/fasthtml), [SouPyX](https://github.com/Yuan-ManX/SouPyX),
 
 ### I love everything I love！
-### “日日行不怕千万里，时时做不惧千万事。”
+### “世界在此处每日都以崭新的光芒重生☀️”
 
 
 <!--
