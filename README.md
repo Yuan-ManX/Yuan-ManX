@@ -27,6 +27,8 @@
 
 - **[SparkLabs](https://github.com/Yuan-ManX/SparkLabs) :**  The First AI-Native Game Engine. 💥 🎮
 
+- **[Trigen](https://github.com/Yuan-ManX/Trigen) :**  An AI-Native 3D Creation Agent Platform, Exploring the Creation of 3D Content! 💥
+
 - **[Buddy](https://github.com/Yuan-ManX/Buddy) :**  AI-Native Buddy for Work, Life & Connection. ☀️
 
 - **[OpenMotion](https://github.com/Yuan-ManX/open-motion) :**  The AI-Native Motion Design Platform, Redefining AI-Native Animation and Design. 🕹️
