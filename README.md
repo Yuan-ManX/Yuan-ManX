@@ -27,7 +27,7 @@
 
 - **[SparkLabs](https://github.com/Yuan-ManX/SparkLabs) :**  The First AI-Native Game Engine. 💥 🎮
 
-- **[Melo](https://github.com/Yuan-ManX/Melo) :**  Your AI-Native Voice Agent! Speak. Create. Belong. Intimate Voice Buddy! 🎙️
+- **[Melo](https://github.com/Yuan-ManX/Melo) :**  Your AI-Native Voice Agent! Speak. Create. Belong. Intimate Voice Buddy. 🎙️
 
 - **[Trigen](https://github.com/Yuan-ManX/Trigen) :**  An AI-Native 3D Creation Agent Platform, Exploring the Creation of 3D Content! 💥
 
