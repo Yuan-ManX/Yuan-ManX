@@ -39,6 +39,10 @@
 
 - **[Octopai](https://github.com/Yuan-ManX/octopai) :**  The Infinite Evolution Skill Engine for AI Agents. 🐙
 
+- **[Chroma](https://huggingface.co/FlashLabs/Chroma-4B) :**  A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning. ✨
+
+- **[Canva AI apps](https://huggingface.co/FlashLabs/Chroma-4B) :**  Nobel Prize-Style Photo、Logo Master、Sticker Maker、DressUP、Sticker、Clay Style etc.
+
 - **[Action](https://github.com/Yuan-ManX/Action) :**  AI-Native Agentic Creation Platform. 🎬 🎮
 
 - **[GenPlay](https://github.com/Yuan-ManX/GenPlay) :**  AI-Native Interactive Game Agent Platform. 🎮
@@ -50,8 +54,6 @@
 - **[Harness Engine](https://github.com/Yuan-ManX/HarnessEngine) :**  Automatic Harness Engine for AI Systems.
 
 - **[Awesome Agent Protocol](https://github.com/Yuan-ManX/awesome-agent-protocol) :**  AI Agent Protocol. 🤖-🤖
-
-- **[Chroma](https://huggingface.co/FlashLabs/Chroma-4B) :**  A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning. ✨
 
 - **[SouPyX](https://github.com/Yuan-ManX/SouPyX) :**  Sound Python Explore - An Audio Exploration Space.🎵
 
