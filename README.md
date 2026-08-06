@@ -41,7 +41,7 @@
 
 - **[Chroma](https://huggingface.co/FlashLabs/Chroma-4B) :**  A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning. ✨
 
-- **[Canva AI apps](https://huggingface.co/FlashLabs/Chroma-4B) :**  Nobel Prize-Style Photo、Logo Master、Sticker Maker、DressUP、Sticker、Clay Style etc.
+- **[Canva AI apps](https://art.xecho.fun/) :**  Nobel Prize-Style Photo、Logo Master、Sticker Maker、DressUP、Sticker、Clay Style etc. 🕹️
 
 - **[Action](https://github.com/Yuan-ManX/Action) :**  AI-Native Agentic Creation Platform. 🎬 🎮
 
