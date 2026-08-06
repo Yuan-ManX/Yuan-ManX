@@ -27,6 +27,8 @@
 
 - **[SparkLabs](https://github.com/Yuan-ManX/SparkLabs) :**  The First AI-Native Game Engine. 💥 🎮
 
+- **[赛博竹知了](https://zhuzhiliao.icu/) :**  赛博电子竹知了宇宙，赛博玩具铺！🎋
+
 - **[Melo](https://github.com/Yuan-ManX/Melo) :**  Speak. Create. Belong. Your AI-Native Voice Agent, Intimate Voice Buddy! 🎙️
 
 - **[Trigen](https://github.com/Yuan-ManX/Trigen) :**  An AI-Native 3D Creation Agent Platform, Exploring the Creation of 3D Content! 💥
